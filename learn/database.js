@@ -1,7 +1,7 @@
 const { MongoClient } = require('mongodb');
 
 let dbConnection;
-const uri = "mongodb+srv://hackedversion:e7WG7xBbtuwvCxVi@cluster0.ribtrjl.mongodb.net/bookstore?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://USERNAME:PASSWORD@cluster0.ribtrjl.mongodb.net/CLUSTER_NAME?retryWrites=true&w=majority&appName=Cluster0";
 
 /* connecting locally */
 
